@@ -3,9 +3,11 @@
 Develop by pushpa
 
 1.public class MatrixAdditionExample{  
-2.public static void main(String args[]){  
+2.public static void main(String args[]){ 
+ 
 //creating two matrices    
-3.int a[][]={{1,3,4},{2,4,3},{3,4,5}};    
+3.int a[][]={{1,3,4},{2,4,3},{3,4,5}}; 
+   
 4.int b[][]={{1,3,4},{2,4,3},{1,2,4}};    
     
 //creating another matrix to store the sum of two matrices    
